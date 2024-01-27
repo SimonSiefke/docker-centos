@@ -1,6 +1,6 @@
 # Docker Centos
 
-Run Centos 9 Gui in a docker file
+Run Centos 7 Gui in a docker file
 
 ```sh
 git clone git@github.com:SimonSiefke/docker-centos.git &&
